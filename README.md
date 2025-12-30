@@ -1,5 +1,7 @@
 # 🎄 Christmas Planner AI
 
+🚀 **[Prova l'app live!](https://christmas-planner-ai-9tdrqxprqmxb3esh2fre8k.streamlit.app/)**
+
 Un assistente AI per pianificare il Natale perfetto: regali, menu e lista della spesa.
 
 Progetto realizzato per la **Datapizza Christmas AI Challenge 2025**.
