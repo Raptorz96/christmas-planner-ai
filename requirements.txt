@@ -1,0 +1,6 @@
+streamlit
+datapizza-ai
+datapizza-ai-tools-duckduckgo
+python-dotenv
+openai
+fpdf2
